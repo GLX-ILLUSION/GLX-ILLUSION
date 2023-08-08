@@ -10,7 +10,7 @@
 </p>
 
 <p align = "left">
-  💼 Tools: <strong> Visual Studio 2022,Git, Github and Vcpkg. </strong>
+  💼 Tools: <strong> Visual Studio 2022,ChatGPT,Git, Github and Vcpkg,IDAPRO,CheatEngine,x64dbg. </strong>
 </p>
 
  <div align="center">
