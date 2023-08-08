@@ -1,4 +1,4 @@
-<img src = "https://github.com/GLX-ILLUSION/valorant-offsets-autoupdater/blob/1fa7dea1192fa3503dc0e83bb9a3eac7e042b128/GalaxyGifDiscordAvatar.gif" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "iuriCode computer">
+<img src = "https://github.com/GLX-ILLUSION/valorant-offsets-autoupdater/blob/1fa7dea1192fa3503dc0e83bb9a3eac7e042b128/GalaxyGifDiscordAvatar.gif" min-width = "300px" max-width = "300px" width = "300px" align = "right" alt = "GalaxyLogo">
 
 <p align = "left">
   Hello, i`m ILLUSION. <br/> 
