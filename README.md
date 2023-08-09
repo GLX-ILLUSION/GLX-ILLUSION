@@ -4,7 +4,7 @@
   Hello, i`m ILLUSION. <br/> 
   I'm a <strong> Game Hacking lover </strong> and <strong> Cheat </strong> developer at an <strong> GalaxyCheats. 
 
-  My discord: darkmqn121
+  My discord: darkmqn121 <br/> 
   if you need help in your paste (maybe i can help, or no 👏)
 </p>
 
