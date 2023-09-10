@@ -17,7 +17,7 @@
 </p>
 
 <p align = "left">
-  "De o seu melhor e descubra que esta dando certo, quando começarem te copiar" </strong>
+  "De o seu melhor e descubra que esta dando certo, quando começarem a te copiar" </strong>
 </p>
 
  <div align="center">
