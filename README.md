@@ -16,6 +16,10 @@
   💼 Tools: <strong> Visual Studio 2022, ChatGPT, Git, Github, Vcpkg, IDA PRO, CheatEngine, x64dbg. </strong>
 </p>
 
+<p align = "left">
+  "De o seu melhor e descubra que esta dando certo, quando começarem te copiar" </strong>
+</p>
+
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLX-ILLUSION&count_private=true&show_icons=true&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLX-ILLUSION&layout=compact&theme=dark&langs_count=3"/>
