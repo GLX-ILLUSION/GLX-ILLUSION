@@ -2,7 +2,7 @@
 
 <p align = "left">
   Hello, i`m ILLUSION. <br/> 
-  I'm a <strong> Game Hacking lover </strong> and <strong> Cheat </strong> developer at an <strong> Galaxy Skills. 
+  I'm a <strong> Game Hacking lover </strong> and <strong> Cheat </strong> developer at <strong> Galaxy Skills. 
 </p>
 <b>Discord and Website</b>
 <p>
