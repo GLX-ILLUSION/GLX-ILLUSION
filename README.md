@@ -108,7 +108,7 @@
 
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLX-ILLUSION&count_private=true&show_icons=true&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLX-ILLUSION&layout=compact&theme=dark&langs_count=3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLX-ILLUSION&layout=compact&theme=dark&langs_count=1"/>
  </div>
 
 <div align="center">
