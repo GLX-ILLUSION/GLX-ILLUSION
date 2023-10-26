@@ -26,7 +26,7 @@
     /> 
  </a> 
 </p>
-# <b>Languages and Tools:</b>
+<b>Languages and Tools:</b>
 <p align="left">
       <!-- unreal engine -->
  <a
