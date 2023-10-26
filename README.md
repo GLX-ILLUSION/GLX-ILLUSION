@@ -2,12 +2,30 @@
 
 <p align = "left">
   Hello, i`m ILLUSION. <br/> 
-  I'm a <strong> Game Hacking lover </strong> and <strong> Cheat </strong> developer at an <strong> GalaxyCheats. 
-
-  My discord: darkmqn121 <br/> 
-  if you need help in your paste (maybe i can help, or no 👏)
+  I'm a <strong> Game Hacking lover </strong> and <strong> Cheat </strong> developer at an <strong> Galaxy Skills. 
 </p>
-
+<b>Discord and Website</b>
+<p>
+<p align="left">
+      <!-- discord -->
+ <a
+    href="https://discord.gg/newgalaxy" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+        alt="c"
+    /> 
+ </a> 
+<!-- site -->
+ <a 
+    href="https://www.galaxyskills.com.br" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://avatars.githubusercontent.com/u/76027489?s=400&u=1b0fcfccc48bdfa3dccf475bd3702025016aa211&v=4"
+        alt="VS code" width="80" height="80"
+    /> 
+ </a> 
+</p>
 # <b>Languages and Tools:</b>
 <p align="left">
       <!-- unreal engine -->
@@ -98,3 +116,4 @@
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=31eywdpshboar6d7gm6r7glloswu&cover_image=true&theme=default&bar_color_cover=true" />
   </a>
 </div>
+
