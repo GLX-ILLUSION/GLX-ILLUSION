@@ -9,7 +9,7 @@
 <p align="left">
       <!-- discord -->
  <a
-    href="https://discord.gg/newgalaxy" 
+    href="https://discord.gg/SPhYZX34Rg" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
