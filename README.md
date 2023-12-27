@@ -4,7 +4,7 @@
   Hello, i`m ILLUSION. <br/> 
   I'm a <strong> Game Hacking lover </strong> and <strong> Cheat </strong> developer at <strong> Galaxy Skills. 
 </p>
-<b>Discord and Website</b>
+
 <p>
 <p align="left">
       <!-- discord -->
@@ -15,16 +15,7 @@
         src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
         alt="c"
     /> 
- </a> 
-<!-- site -->
- <a 
-    href="https://www.galaxyskills.com.br" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://avatars.githubusercontent.com/u/76027489?s=400&u=1b0fcfccc48bdfa3dccf475bd3702025016aa211&v=4"
-        alt="VS code" width="80" height="80"
-    /> 
- </a> 
+
 </p>
 <b>Languages and Tools</b>
 <p align="left">
