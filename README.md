@@ -103,8 +103,8 @@
  </div>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31eywdpshboar6d7gm6r7glloswu&redirect=true" target="_blank">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31eywdpshboar6d7gm6r7glloswu&cover_image=true&theme=default&bar_color_cover=true" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eywdpshboar6d7gm6r7glloswu&redirect=true" target="_blank">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eywdpshboar6d7gm6r7glloswu&cover_image=true&theme=default&bar_color_cover=true" />
   </a>
 </div>
 
