@@ -86,7 +86,7 @@
     href="https://hex-rays.com/ida-pro/" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://cdn.discordapp.com/attachments/627282020430512138/1102965103571255306/IDA.png"
+        src="https://hex-rays.com/beta-program/ida-pro.png"
         alt="IDAPro" width="40" height="40"
     /> 
  </a> 
